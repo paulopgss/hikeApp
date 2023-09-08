@@ -32,11 +32,13 @@ struct CardView: View {
                                 )
                         )
                         
+                        Spacer()
+                        
                         Button {
                             // ACTION: Show a Sheet
                             print("O botao foi pressionado")
                         } label: {
-                            Text("button")
+                            CustomButtonView()
                         }
                     }
                     Text("Atividade ao ar livres são divertidas e agradáveis para amigos e família.")
