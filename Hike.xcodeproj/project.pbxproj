@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A0B1E4D2AAB743F00F285B2 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B1E4C2AAB743F00F285B2 /* CardView.swift */; };
+		3A0B1E502AAB760300F285B2 /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B1E4F2AAB760300F285B2 /* CustomBackgroundView.swift */; };
+		3A0B1E532AAB78A300F285B2 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A0B1E522AAB78A300F285B2 /* ColorExtension.swift */; };
 		3A17B0CD2AA634D10009B2EE /* HikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A17B0CC2AA634D10009B2EE /* HikeApp.swift */; };
 		3A17B0CF2AA634D10009B2EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A17B0CE2AA634D10009B2EE /* ContentView.swift */; };
 		3A17B0D12AA634D30009B2EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A17B0D02AA634D30009B2EE /* Assets.xcassets */; };
@@ -14,6 +17,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A0B1E4C2AAB743F00F285B2 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		3A0B1E4F2AAB760300F285B2 /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
+		3A0B1E522AAB78A300F285B2 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		3A17B0C92AA634D10009B2EE /* Hike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A17B0CC2AA634D10009B2EE /* HikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeApp.swift; sourceTree = "<group>"; };
 		3A17B0CE2AA634D10009B2EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +38,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3A0B1E4E2AAB755C00F285B2 /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				3A0B1E4C2AAB743F00F285B2 /* CardView.swift */,
+				3A0B1E4F2AAB760300F285B2 /* CustomBackgroundView.swift */,
+			);
+			path = Component;
+			sourceTree = "<group>";
+		};
+		3A0B1E512AAB786500F285B2 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				3A0B1E522AAB78A300F285B2 /* ColorExtension.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
 		3A17B0C02AA634D10009B2EE = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +74,12 @@
 		3A17B0CB2AA634D10009B2EE /* Hike */ = {
 			isa = PBXGroup;
 			children = (
+				3A0B1E512AAB786500F285B2 /* Utility */,
 				3A17B0CC2AA634D10009B2EE /* HikeApp.swift */,
 				3A17B0CE2AA634D10009B2EE /* ContentView.swift */,
 				3A17B0D02AA634D30009B2EE /* Assets.xcassets */,
 				3A17B0D22AA634D30009B2EE /* Preview Content */,
+				3A0B1E4E2AAB755C00F285B2 /* Component */,
 			);
 			path = Hike;
 			sourceTree = "<group>";
@@ -138,7 +163,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A17B0CF2AA634D10009B2EE /* ContentView.swift in Sources */,
+				3A0B1E4D2AAB743F00F285B2 /* CardView.swift in Sources */,
 				3A17B0CD2AA634D10009B2EE /* HikeApp.swift in Sources */,
+				3A0B1E502AAB760300F285B2 /* CustomBackgroundView.swift in Sources */,
+				3A0B1E532AAB78A300F285B2 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
