@@ -15,6 +15,7 @@
 		3A17B0CF2AA634D10009B2EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A17B0CE2AA634D10009B2EE /* ContentView.swift */; };
 		3A17B0D12AA634D30009B2EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A17B0D02AA634D30009B2EE /* Assets.xcassets */; };
 		3A17B0D42AA634D30009B2EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A17B0D32AA634D30009B2EE /* Preview Assets.xcassets */; };
+		3A4573602AB751F000871A3F /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A45735F2AB751F000871A3F /* GradientButtonStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		3A17B0CE2AA634D10009B2EE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A17B0D02AA634D30009B2EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A17B0D32AA634D30009B2EE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3A45735F2AB751F000871A3F /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			isa = PBXGroup;
 			children = (
 				3A0B1E522AAB78A300F285B2 /* ColorExtension.swift */,
+				3A45735F2AB751F000871A3F /* GradientButtonStyle.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				3A0B1E4D2AAB743F00F285B2 /* CardView.swift in Sources */,
 				3A17B0CD2AA634D10009B2EE /* HikeApp.swift in Sources */,
 				3A0B1E552AAB829900F285B2 /* CustomButtonView.swift in Sources */,
+				3A4573602AB751F000871A3F /* GradientButtonStyle.swift in Sources */,
 				3A0B1E502AAB760300F285B2 /* CustomBackgroundView.swift in Sources */,
 				3A0B1E532AAB78A300F285B2 /* ColorExtension.swift in Sources */,
 			);
