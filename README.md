@@ -12,14 +12,13 @@ O aplicativo Hike é uma ferramenta versátil para os entusiastas de trilhas, ca
 - Bottom Sheet Nativo: Utilizamos um bottom sheet nativo para fornecer uma experiência de usuário mais intuitiva e eficiente.
 
 ### Capturas de Tela ###
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 07](https://github.com/paulopgss/hikeApp/assets/18484968/0b2693b2-8f16-4be2-9006-04e33d98f213)
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 14](https://github.com/paulopgss/hikeApp/assets/18484968/0c24ff85-a4d1-4daa-a573-84cef097bfc8)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 19](https://github.com/paulopgss/hikeApp/assets/18484968/2c8b94e8-ac20-4267-a05d-9154de0acb48)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 23](https://github.com/paulopgss/hikeApp/assets/18484968/a7b19a6b-c67c-4496-ac2c-85d168e79c4b)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 27](https://github.com/paulopgss/hikeApp/assets/18484968/0a70741b-f4ab-4afd-8228-4c54913f3112)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 31](https://github.com/paulopgss/hikeApp/assets/18484968/cfd88acf-064a-43b3-bc87-496582de1256)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-18 at 15 18 35](https://github.com/paulopgss/hikeApp/assets/18484968/83b500fe-49f5-42ba-b1f1-bf4a51691a7d)
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/0b2693b2-8f16-4be2-9006-04e33d98f213" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/0c24ff85-a4d1-4daa-a573-84cef097bfc8" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/2c8b94e8-ac20-4267-a05d-9154de0acb48" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/a7b19a6b-c67c-4496-ac2c-85d168e79c4b" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/0a70741b-f4ab-4afd-8228-4c54913f3112" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/cfd88acf-064a-43b3-bc87-496582de1256" width="200" height="100">
+<img src="https://github.com/paulopgss/hikeApp/assets/18484968/83b500fe-49f5-42ba-b1f1-bf4a51691a7d" width="200" height="100">
 
 ## Requisitos de Sistema ##
 
