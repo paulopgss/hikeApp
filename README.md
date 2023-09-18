@@ -43,12 +43,9 @@ git clone https://github.com/paulopgss/hikeApp
 ## Configuração do Ícone Alternativo ##
 
 1. Abra o aplicativo Hike.
-
-2.Acesse as configurações do aplicativo.
-
-3.Selecione a opção "Personalizar Ícone".
-
-4.Escolha entre os ícones alternativos disponíveis ou faça o upload de um ícone personalizado.
+2. Acesse as configurações do aplicativo.
+3. Selecione a opção "Personalizar Ícone".
+4. Escolha entre os ícones alternativos disponíveis ou faça o upload de um ícone personalizado.
 
 ## Licença ##
 Este aplicativo é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes.
