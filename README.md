@@ -42,7 +42,7 @@ git clone https://github.com/paulopgss/hikeApp
 
 ## Configuração do Ícone Alternativo ##
 
-1. Abra o aplicativo Trilhas.
+1. Abra o aplicativo Hike.
 
 2.Acesse as configurações do aplicativo.
 
