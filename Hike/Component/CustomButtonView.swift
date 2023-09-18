@@ -41,12 +41,12 @@ struct CustomButtonView: View {
                 .font(.system(size: 30))
                 .foregroundStyle(
                     LinearGradient(
-                    colors: [
-                        .customGrayLight,
-                        .customGrayMedium
-                    ],
-                    startPoint: .top,
-                    endPoint: .bottom
+                        colors: [
+                            .customGrayLight,
+                            .customGrayMedium
+                        ],
+                        startPoint: .top,
+                        endPoint: .bottom
                     )
                 )
         }.frame(width: 58, height: 58)

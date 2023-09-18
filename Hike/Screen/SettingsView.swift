@@ -77,9 +77,9 @@ struct SettingsView: View {
                                 ) { error in
                                     if error != nil {
                                         print("Failed request to update the app's icon: \(String(describing: error?.localizedDescription))")
-                                              } else {
-                                            print("Success! You have changed the app's icons to \(alternativeAppIcons[item])")
-                                        }
+                                    } else {
+                                        print("Success! You have changed the app's icons to \(alternativeAppIcons[item])")
+                                    }
                                 }
                             } label: {
                                 Image("\(alternativeAppIcons[item])-Preview")
@@ -87,7 +87,7 @@ struct SettingsView: View {
                                     .scaledToFit()
                                     .frame(width: 80, height: 80)
                                     .cornerRadius(16)
-                        }
+                            }
                             .buttonStyle(.borderless)
                         }
                     }

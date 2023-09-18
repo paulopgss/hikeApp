@@ -52,7 +52,7 @@ struct CardView: View {
                                     startPoint: .top,
                                     endPoint: .bottom
                                 )
-                        )
+                            )
                         
                         Spacer()
                         

@@ -25,7 +25,7 @@ struct GradientButton: ButtonStyle {
                     endPoint: .bottom
                 )
                 :
-                // B: When the Button is not pressed
+                    // B: When the Button is not pressed
                 LinearGradient(
                     colors: [.customGrayLight, .customGrayMedium],
                     startPoint: .top,
