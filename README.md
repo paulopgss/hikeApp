@@ -3,7 +3,15 @@
 ### Descrição ###
 O aplicativo Hike é uma ferramenta versátil para os entusiastas de trilhas, caminhadas e aventuras ao ar livre. Com o Hike, você pode não apenas registrar e acompanhar suas trilhas, mas também personalizar a experiência do aplicativo, incluindo a troca de ícone do app por um alternativo. Além disso, o aplicativo oferece animações simples para tornar sua experiência mais agradável e utiliza um bottom sheet nativo para melhorar a usabilidade. A motivação do aplicativo é puramente para estudos e aprimoramento de habilidades com Swift.
 
-### Recursos Principais ###
+## Objetivo ##
+- SwiftUI Containers
+  - Criar familiaridade com os diferentes tipos de containers de apresentação, tais como HStack, VStack ou ZStack
+- Alternar ícones do aplicativo
+  - Saber como adicionar ícones de aplicações alternativos à sua aplicação, deixar as pessoas escolherem o ícone a apresentar.
+- SF symbols
+  - SF Symbols é uma biblioteca de ícones concebida para se integrar perfeitamente com as plataformas Apple
+
+## Recursos Principais ##
 
 - Personalização de Ícone: Troque o ícone padrão do aplicativo por um ícone alternativo da sua escolha, dando ao Trilhas uma aparência única.
 
